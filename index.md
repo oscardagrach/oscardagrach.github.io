@@ -4,7 +4,21 @@
 [uefi_fuzzer](https://github.com/oscardagrach/uefi_fuzzer)
 
 ## Research
+[CVE-2019-5700](https://github.com/oscardagrach/CVE-2019-5700)
+
+[Galaxy S5 dev_tree_appended bug](https://github.com/oscardagrach/galaxy_s5_dev_tree_appended_bug)
+
+[Galaxy S6 Cadmium (NSA exploit)](https://github.com/oscardagrach/galaxy_s6_cadmium_poc)
+
+[Toshiba eMMC Vendor Command Fuzzer](https://github.com/oscardagrach/toshiba_emmc_vendor_cmd_fuzzer)
+
+## Projects
+[Nvidia Vendor Linux 3.10 ported for Google Project Tango Tablet](https://github.com/oscardagrach/yellowstone_psci_kernel)
+
+[Sign Nvidia Tegra TOS images (TrustZone)](https://github.com/oscardagrach/signtos)
 
 ## About
+My name is Ryan and I am a security researcher interested in: Bootloaders, UEFI, Fuzzing, JTAG, ARM, TrustZone, Firmware Emulation
 
 ## Contact
+[Email](mailto:ryan@norelax.org)
