@@ -1,5 +1,8 @@
 # NoRelax
 
+## About
+My name is Ryan and I am a security researcher interested in: Bootloaders, UEFI, Fuzzing, JTAG, ARM, TrustZone, Firmware Emulation
+
 ## Current Projects
 [uefi_fuzzer](https://github.com/oscardagrach/uefi_fuzzer)
 
@@ -16,9 +19,6 @@
 [Nvidia Vendor Linux 3.10 ported for Google Project Tango Tablet](https://github.com/oscardagrach/yellowstone_psci_kernel)
 
 [Sign Nvidia Tegra TOS images (TrustZone)](https://github.com/oscardagrach/signtos)
-
-## About
-My name is Ryan and I am a security researcher interested in: Bootloaders, UEFI, Fuzzing, JTAG, ARM, TrustZone, Firmware Emulation
 
 ## Contact
 [Email](mailto:ryan@norelax.org)
