@@ -15,7 +15,11 @@ My name is Ryan and I am a security researcher interested in: Bootloaders, UEFI,
 
 [Toshiba eMMC Vendor Command Fuzzer](https://github.com/oscardagrach/toshiba_emmc_vendor_cmd_fuzzer)
 
-## Projects
+[Upgrading Hikey development board eMMC](https://movr0.com/2017/09/18/96boards-hikey-emmc-hacks/)
+
+[Finding JTAG on Odroid C2](https://movr0.com/2016/12/13/finding-jtag-on-the-odroid-c2/)
+
+## Past Projects
 [Nvidia Vendor Linux 3.10 ported for Google Project Tango Tablet](https://github.com/oscardagrach/yellowstone_psci_kernel)
 
 [Sign Nvidia Tegra TOS images (TrustZone)](https://github.com/oscardagrach/signtos)
