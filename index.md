@@ -4,7 +4,7 @@
 My name is Ryan and I am a security researcher interested in: Bootloaders, UEFI, Fuzzing, JTAG, ARM, TrustZone, Firmware Emulation
 
 ## Current Projects
-[uefi_fuzzer](https://github.com/oscardagrach/uefi_fuzzer)
+[EDK2/OVMF Fuzzer using kAFL/Nyx](https://github.com/oscardagrach/uefi_fuzzer)
 
 ## Research
 [CVE-2019-5700](https://github.com/oscardagrach/CVE-2019-5700)
