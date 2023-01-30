@@ -13,8 +13,6 @@ My name is Ryan and I am a security researcher interested in: Bootloaders, UEFI,
 
 [Samsung Galaxy S5 Bootloader dev_tree_appended bug](https://github.com/oscardagrach/galaxy_s5_dev_tree_appended_bug)
 
-[Samsung Galaxy S6 Bootloader Cadmium (NSA exploit)](https://github.com/oscardagrach/galaxy_s6_cadmium_poc)
-
 [Toshiba eMMC Vendor Command Fuzzer](https://github.com/oscardagrach/toshiba_emmc_vendor_cmd_fuzzer)
 
 [Upgrading Hikey development board eMMC](https://movr0.com/2017/09/18/96boards-hikey-emmc-hacks/)
@@ -25,6 +23,8 @@ My name is Ryan and I am a security researcher interested in: Bootloaders, UEFI,
 [Nvidia Vendor Linux 3.10 ported for Google Project Tango Tablet](https://github.com/oscardagrach/yellowstone_psci_kernel)
 
 [Sign Nvidia Tegra TOS images (TrustZone)](https://github.com/oscardagrach/signtos)
+
+[Samsung Galaxy S6 Bootloader Cadmium port (NSA exploit)](https://github.com/oscardagrach/galaxy_s6_cadmium_poc)
 
 ## Contact
 [Email](mailto:ryan@norelax.org)
