@@ -5,6 +5,7 @@ My name is Ryan and I am a security researcher interested in: Bootloaders, UEFI,
 
 ## Current Projects
 [EDK2/OVMF Fuzzer using kAFL/Nyx](https://github.com/oscardagrach/uefi_fuzzer)
+
 [Samsung Galaxy S5 aboot emulator using Qiling](https://github.com/oscardagrach/galaxy_s5_aboot_emulator)
 
 ## Research
