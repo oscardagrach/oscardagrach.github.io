@@ -28,3 +28,5 @@ My name is Ryan and I am a security researcher interested in: Bootloaders, UEFI,
 
 ## Contact
 [Email](mailto:ryan@norelax.org)
+
+[LinkedIn](https://www.linkedin.com/in/ryan-grachek-414119236/)
