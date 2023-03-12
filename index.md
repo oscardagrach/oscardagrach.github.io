@@ -1,7 +1,7 @@
 # [NoRelax](https://norelax.org)
 
 ## About
-My name is Ryan and I am a security researcher interested in: Bootloaders, UEFI, Fuzzing, JTAG, ARM, TrustZone, Firmware Emulation
+My name is Ryan and I'm a security researcher with a strong interest in firmware analysis, emulation, and fuzzing for vulnerability discovery. Passionate about exploring low-level system development and security to deepen understanding and expertise in these areas.
 
 ## Current Projects
 [EDK2/OVMF Fuzzer using kAFL/Nyx](https://github.com/oscardagrach/uefi_fuzzer)
