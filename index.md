@@ -6,7 +6,7 @@ My name is Ryan and I'm a security researcher with a strong interest in firmware
 ## Current Projects
 [EDK2/OVMF Fuzzer using kAFL/Nyx](https://github.com/oscardagrach/uefi_fuzzer)
 
-[Samsung Galaxy S5 aboot emulator using Qiling](https://github.com/oscardagrach/galaxy_s5_aboot_emulator)
+[Samsung Galaxy S5 Firmware Emulator (Qiling based)](https://github.com/oscardagrach/galaxy_s5_firmware_emulator)
 
 ## Research
 [CVE-2019-5700](https://github.com/oscardagrach/CVE-2019-5700)
